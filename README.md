@@ -3,6 +3,9 @@
 # Hello GitHub Actions
 
 _Create and run a GitHub Actions workflow._
+:yum:
+:two_hearts:
+:musical_note:
 
 </header>
 
