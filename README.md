@@ -6,7 +6,8 @@ _Create and run a GitHub Actions workflow._
 :yum:
 :two_hearts:
 :musical_note:
-
+:clap:
+:v:
 </header>
 
 ## Step 5: Trigger the workflow
